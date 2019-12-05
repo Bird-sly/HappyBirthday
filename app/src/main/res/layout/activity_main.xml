@@ -27,10 +27,11 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
-        android:textSize="36sp"
+        android:textSize="37sp"
         android:fontFamily="sans-serif-light"
         android:textColor="@android:color/white"
         android:text="Happy Birthday TJ!"/>
+
 
 
 
